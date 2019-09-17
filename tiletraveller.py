@@ -1,4 +1,4 @@
-#github repo: https://github.com/kristjanleifur4/TileTraveller.git
+#github repository: https://github.com/kristjanleifur4/TileTraveller.git
 x,y = 1,1
 while (x,y) != (3,1): #á meðan x,y er ekki 3,1 þá heldur programmið áfram
     a = x
